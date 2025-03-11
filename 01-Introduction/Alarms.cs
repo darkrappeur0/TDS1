@@ -8,11 +8,14 @@ using System.Text.RegularExpressions;
 
 public class Alarms
 {
+	#region First method
 	public int countAlarms(int[] volume, int S)
 	{
+		//initialisation
 		int i =0;
 		int m=0;
 		bool verif = false;
+		//researched & main loop
 		while ( (verif == false)){
 				if(i>=volume.Length){
 					i=i%volume.Length;

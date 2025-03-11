@@ -8,12 +8,15 @@ using System.Text.RegularExpressions;
 
 public class Ameba
 {
+	#region First method
 	public int simulate(int[] X, int A)
 	{
+		//initialisation
 		int m=A;
 	    int i =0;
 		int f=0;
 		bool verif = false;
+		//researched of the first equals
 		while ( (i!=X.Length ) & (verif==false) ){
 			if (X[i] == A){
 				f = X[i] + A;
@@ -23,7 +26,7 @@ public class Ameba
 				i=i+1;
 			}
 		}
-		
+		//researched of secondary equals
 		int c = i+1;
 		if (c < X.Length ) {
 			while (c!=X.Length){

@@ -9,14 +9,16 @@ using System.Text.RegularExpressions;
 
 public class RobotOnMoon
 {
+    #region First method
     public string isSafeCommand(string[] board, string S)
     {
+        //first initialisation
 		string res ="Alive";
         int x = 0;
         int y = 0;
-        
         bool verif = false;
         char c = board[x][y];
+        //searched of the 'S'
         while (verif ==false){
             if (c != 'S'){
                 y=y+1;
@@ -30,12 +32,15 @@ public class RobotOnMoon
                 verif = true;
             }
         }
+        //second initialisation
 		int xfix = board.Length;
         int yfix = board[0].Length;
         int m=0;
         int xprev=x;
         int yprev=y;
         char c1 = S[m];
+
+        // moving and verification
         while ( (verif == true) ){
             if (c1=='U'){
                 x=x-1;
