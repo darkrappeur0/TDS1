@@ -1,0 +1,15 @@
+/home/maxence/Documents/TSD/TDS1/01-Introduction/obj/Debug/net8.0/ProblemChallenge.GeneratedMSBuildEditorConfig.editorconfig
+/home/maxence/Documents/TSD/TDS1/01-Introduction/obj/Debug/net8.0/ProblemChallenge.AssemblyInfoInputs.cache
+/home/maxence/Documents/TSD/TDS1/01-Introduction/obj/Debug/net8.0/ProblemChallenge.AssemblyInfo.cs
+/home/maxence/Documents/TSD/TDS1/01-Introduction/obj/Debug/net8.0/ProblemChallenge.csproj.CoreCompileInputs.cache
+/home/maxence/Documents/TSD/TDS1/01-Introduction/obj/Debug/net8.0/ProblemChallenge.sourcelink.json
+/home/maxence/Documents/TSD/TDS1/01-Introduction/bin/Debug/net8.0/ProblemChallenge
+/home/maxence/Documents/TSD/TDS1/01-Introduction/bin/Debug/net8.0/ProblemChallenge.deps.json
+/home/maxence/Documents/TSD/TDS1/01-Introduction/bin/Debug/net8.0/ProblemChallenge.runtimeconfig.json
+/home/maxence/Documents/TSD/TDS1/01-Introduction/bin/Debug/net8.0/ProblemChallenge.dll
+/home/maxence/Documents/TSD/TDS1/01-Introduction/bin/Debug/net8.0/ProblemChallenge.pdb
+/home/maxence/Documents/TSD/TDS1/01-Introduction/obj/Debug/net8.0/ProblemChallenge.dll
+/home/maxence/Documents/TSD/TDS1/01-Introduction/obj/Debug/net8.0/refint/ProblemChallenge.dll
+/home/maxence/Documents/TSD/TDS1/01-Introduction/obj/Debug/net8.0/ProblemChallenge.pdb
+/home/maxence/Documents/TSD/TDS1/01-Introduction/obj/Debug/net8.0/ProblemChallenge.genruntimeconfig.cache
+/home/maxence/Documents/TSD/TDS1/01-Introduction/obj/Debug/net8.0/ref/ProblemChallenge.dll

@@ -86,7 +86,7 @@ public class RobotOnMoon
 		
         return res;
     }
-
+    #endregion
     #region Testing code
 
     [STAThread]

@@ -31,6 +31,7 @@ public class Alarms
 		}
         return m;
 	}
+	#endregion
 
 	#region Testing code
 	[STAThread]

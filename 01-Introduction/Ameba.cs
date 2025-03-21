@@ -41,7 +41,7 @@ public class Ameba
 		}
 	    return m;
 	}
-
+	#endregion
 	#region Testing code
 	[STAThread]
 	private static Boolean KawigiEdit_RunTest(int testNum, int[] p0, int p1, Boolean hasAnswer, int p2) {
@@ -85,7 +85,7 @@ public class Ameba
 		Console.WriteLine("");
 		return res;
 	}
-	public static void Main(string[] args) {
+	public static void Run() {
 		Boolean all_right;
 		all_right = true;
 		
